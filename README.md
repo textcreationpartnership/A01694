@@ -36,11 +36,33 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A vvomans vvoorth, defended against all the men in the world Proouing them to be more perfect, excel
+
+1. To the Right Honorable Lady, Elizabeth, Counteſſe of South-hampton.
+
+1. To the Right Honourable the Counteſſe of South-hampton.
+
+1. To the worthy Ladyes, and vertuous Maydes of Honor, to her royal Maieſty: Miſtreſſe Anne Ruſſell, Miſtreſſe Margaret Ratcliffe, Miſtreſſe Mary Fitten and the reſt, &c.
+
+1. To the Honorable Miſtreſſe Anne Ruſſell.
+
+1. To the Honourable Miſtreſſe Margaret Ratcliffe.
+
+1. To the Honorable Miſtreſſe Fitten.
+
+1. To all the Honorable Ladies, and Gentlewomen of England.
+
+1. To the Reader.
+
+1. From what Authours this little labour receiued his originall.
+
 #####Body#####
-A vvomans vvoorth, defended against all the men in the world Proouing them to be more perfect, excel
+
+1. A Womans woorth, defended againſt all the men in the worlde.
+
+1. An other defence of womens vertues, written by an Honorable perſonage, of great reckoning in Fraunce, and therefore thought meete to be ioyned with the former diſcourſe.
+
 #####Back#####
-A vvomans vvoorth, defended against all the men in the world Proouing them to be more perfect, excel
+Imprinted at London by Iohn Wolfe, and are to be ſolde at his ſhop in Popes head Alley, neere vnto t
 **Types of content**
 
   * There are 441 **verse** lines!
